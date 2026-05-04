@@ -23,6 +23,7 @@ const Register = () => {
 
     return (
         <main>
+            {/* <div className="brand-title">InterviX_AI_Resume_Analyzer</div> */}
             <div className="form-container">
                 <h1>Register</h1>
 

@@ -25,7 +25,8 @@ const Login = () => {
     return (
         <main>
             <div className="form-container">
-                <h1>Login</h1>
+                <div className="brand-title">InterviX_AI_Resume_Analyzer</div>
+                <h1 className="form-title">Login</h1>
                 <form onSubmit={handleSubmit}>
                     <div className="input-group">
                         <label htmlFor="email">Email</label>

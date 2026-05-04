@@ -15,6 +15,25 @@ main{
         gap: 1rem;
     }
 
+    .form-title{
+        font-size: 1.5rem;
+        font-weight: 600;
+        color: white;
+        align-self: center;
+    }
+
+    .brand-title {
+        font-size: 1.5rem;
+        font-weight: 700;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: #e1034d;
+        margin-bottom: 3rem;
+        align-self: center;
+
+    }
+    
+
     form{
         display: flex;
         flex-direction: column;
